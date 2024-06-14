@@ -1,0 +1,61 @@
+
+        .photo {
+            width: 300px;
+            height: 300px;
+            padding: 30px;
+        }
+        .main {
+            padding: 20px 0 0 140px; 
+        }
+        h2 {
+            font-family: 'Playfair Display SC', serif;
+            font-size: 50px;
+            padding: 50px 0px 0px 680px ;
+        }
+        h3 {
+            font-family: Verdana, Tahoma,;
+            font-size: 30px;
+            padding: 0px 0px 0px 720px ;
+            margin: 10px 10px 0px 10px;
+        }
+
+        #more {
+            display: none;
+        }
+        
+        body {
+           background: #fafcf8;
+           background: url(charles-forerunner-gapYVvUg1M8-unsplash.jpg);
+        }
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #e5f082 0%, #c28708 51%, #e9d88b 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px ;
+  transition: .5s;
+  border-bottom-color: none ;
+}
+.gradient-button:hover {
+  background-position: right center;
+}
+
+.text-box {
+    padding: 0px 0px 0px 600px ;
+}
+header {
+        background-color: white;
+        width: 1720px;
+        height: 1050px;
+        border-radius: 10px;
+        margin: 50px 50px;
+    }      
+
+  
